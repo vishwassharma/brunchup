@@ -33,7 +33,6 @@ exports.config =
       joinTo: 'stylesheets/app.css'
       order:
         before: ['vendor/styles/bootstrap/bootstrap.css']
-        #after: ['vendor/styles/helpers.css']
 
     templates:
       defaultExtension: 'hbs'
