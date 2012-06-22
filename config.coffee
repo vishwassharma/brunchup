@@ -5,6 +5,10 @@ exports.config =
   paths:
     public: 'public'
 
+  server :
+    path : 'server/app.config'
+    port : 3333
+
   files:
     javascripts:
       # Defines what file will be generated with `brunch generate`.

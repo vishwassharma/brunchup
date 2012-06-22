@@ -25,7 +25,8 @@
 
     "uglify-js-brunch": "> 1.0 < 1.3",
     "clean-css-brunch": "> 1.0 < 1.3",
-    "auto-reload-brunch" : "1.2.0"
+    "auto-reload-brunch" : "1.2.0",
+    "gzippo" : "0.1.6"
   },
   "devDependencies": {
     "mocha": "1.0.3",
